@@ -1,4 +1,4 @@
-﻿namespace FirstAPI.Data.Models
+﻿namespace FirstAPI.Models
 {
     public class Book
     {
